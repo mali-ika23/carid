@@ -3,11 +3,11 @@
 	"admob_banner": "ca-app-pub-5877571290650236/9548297397",
 	"admob_inter": "ca-app-pub-5877571290650236/9028782015",
 	
-	"APP_KEY": "1235d7d8d",
-	"BANNER_PLACEMENT": "954491248441567_954492561774769",
-	"INTERSTITIAL_PLACEMENT": "954491248441567_954495318441160",
+	"APP_KEY": "1231f03dd",
+	"BANNER_PLACEMENT": "283118003748776_283119147081995",
+	"INTERSTITIAL_PLACEMENT": "283118003748776_283119687081941",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
